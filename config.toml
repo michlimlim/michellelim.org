@@ -29,7 +29,7 @@ summaryLength = 20
     featherIconsCDN = true
 
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "icons/favicon.ico"
+    favicon = "https://s3.amazonaws.com/www.michellelim.org/icons/favicon.ico"
 
     # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
     # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
