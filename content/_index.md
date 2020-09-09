@@ -1,5 +1,5 @@
 ---
-image: "images/selfportrait.jpg"
+title: "Michelle Lim"
 type: "page"
 ---
 

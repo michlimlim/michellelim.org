@@ -19,6 +19,9 @@ paginate = 10
 summaryLength = 20
 
 [params]
+    description = "Hi! I’m Michelle Lim. I’m a software engineer at an NYC-based startup. I also write essays. During my undergrad at Yale, I co-founded a healthcare startup called Pillnotes and a startup incubator called Yale Helix. I also invested in startups with Contrary Capital. In the summers, I interned at Robinhood (building Video News), Slack, and Facebook. In my free time, I read fiction, paint oil paintings, play squash and cycle. Fun fact: I sang in the Yale Russian chorus without knowing Russian!"
+    images = ["https://s3.amazonaws.com/www.michellelim.org/images/self.jpg"]
+
     # Content types which are included in home page recent posts list.
     mainSections = ["post"]
 

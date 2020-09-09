@@ -2,7 +2,7 @@
 title: "Gold Rush"
 date: 2019-10-24T23:45:22-04:00
 description: "My Yale Daily News satire essay about the hypocrisy I encountered in Silicon Valley."
-image: "images/Claire-Mutchnik_Gold-Rush_editor_online.png"
+images: ["images/Claire-Mutchnik_Gold-Rush_editor_online.png"]
 type: "post"
 ---
 

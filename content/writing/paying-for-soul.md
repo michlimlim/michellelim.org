@@ -2,7 +2,7 @@
 title: "Paying For Soul"
 date: 2019-10-28T23:45:22-04:00
 description: "My Yale Herald essay about Soul Cycle, capitalism and religion."
-image: "images/soul-cycle.png"
+images: ["https://s3.amazonaws.com/www.michellelim.org/images/soul-cycle.png"]
 type: "post"
 ---
 
