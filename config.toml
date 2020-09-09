@@ -1,4 +1,4 @@
-baseURL = "https://www.michellelim.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Michelle Lim"
 theme = "ezhil"
@@ -10,7 +10,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-177547603-1"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
@@ -83,3 +83,27 @@ weight = 3
 name = "Art"
 url = "/art"
 weight = 4
+
+[deployment]
+order = [".jpg$", ".gif$"]
+
+[[deployment.targets]]
+name = "personal"
+
+# S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+URL = "s3://www.michellelim.org/?region=us-east-1"
+
+# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+cloudFrontDistributionID = "E1LJGS4J5XAC6O"
+
+# Optionally, you can include or exclude specific files.
+# See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
+# If non-empty, the pattern is matched against the local path.
+# All paths are matched against in their filepath.ToSlash form.
+# If exclude is non-empty, and a local or remote file's path matches it, that file is not synced.
+# If include is non-empty, and a local or remote file's path does not match it, that file is not synced.
+# As a result, local files that don't pass the include/exclude filters are not uploaded to remote,
+# and remote files that don't pass the include/exclude filters are not deleted.
+# include = "public/*"
+# exclude = "**.{jpg, png}" # would exclude files with ".jpg" or ".png" suffix
