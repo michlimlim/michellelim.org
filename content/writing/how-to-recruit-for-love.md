@@ -3,7 +3,9 @@ title: "How to Recruit for Love"
 date: 2019-11-21T23:40:22-04:00
 description: "My Yale Daily News satire essay about dating apps and how they optimize and thereby cheapen dating."
 images:
-  ["images/Anasthasia-Shilov_Recruiting-for-love_Contributing_Online-1.png"]
+  [
+    "https://s3.amazonaws.com/www.michellelim.org/images/Anasthasia-Shilov_Recruiting-for-love_Contributing_Online-1.png",
+  ]
 type: "post"
 ---
 
