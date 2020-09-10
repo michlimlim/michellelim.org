@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Michelle Lim"
 theme = "ezhil"
 
-copyright = "Copyright © 2020 Michelle Lim"
-
 # Enable syntax highlighting.
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
