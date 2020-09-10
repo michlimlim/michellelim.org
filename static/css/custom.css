@@ -13,6 +13,10 @@
 #mce-EMAIL::placeholder {
   font-family: "ubuntu", sans-serif;
 }
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+}
 
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
