@@ -13,9 +13,9 @@
 #mce-EMAIL::placeholder {
   font-family: "ubuntu", sans-serif;
 }
-.footer-bottom {
-  display: flex;
-  justify-content: space-between;
+.twitter-button {
+  text-align: center;
+  margin: 20px;
 }
 
 .resp-sharing-button__link,
