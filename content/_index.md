@@ -3,7 +3,7 @@ title: "Michelle Lim"
 type: "page"
 ---
 
-Hi! I'm Michelle Lim. I'm a software engineer at an NYC-based startup. I also write [essays](/writing).
+Hi! I'm Michelle Lim. I'm a software engineer at an NYC-based 3-person startup. I also write [essays](/writing).
 
 You can find me at [Twitter](https://www.twitter.com/michlimlim), [Linkedin](https://www.linkedin.com/in/michlimlim), [Github](https://www.github.com/michlimlim) or [email](mailto:limxlmichelle@gmail.com).
 
