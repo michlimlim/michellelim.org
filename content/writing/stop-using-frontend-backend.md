@@ -55,6 +55,6 @@ I found my sweet spot.
 
 [^1]: I had met Bolu, a new grad in Bloomberg London, after he sent me a cold DM to thank me for the thread. He had sent my thread to his manager!!! It turned out that he had been struggling to express his project preferences to his manager, and the thread helped. The manager “got” it after reading the thread and now Bolu is on a product development team he is very excited about.
 [^2]: I took the “code-first” vs. “product-first” engineer terminology from Xoogler Zach Lloyd’s blog: https://thezbook.com/
-[^3]: Someone on Twitter (leon @lievetraz): replied with their attempt to classify internal tools teams into “Product/Infra” [here](https://twitter.com/lievetraz/status/1293555767430336518?s=20).
+[^3]: Someone on Twitter (leon @lievetraz) replied with their attempt to classify internal tools teams into “Product/Infra” [here](https://twitter.com/lievetraz/status/1293555767430336518?s=20).
 [^4]: There are hundreds of other reasons engineers choose to be PMs of course.
 [^5]: I learned it the hard way how important it was to advocate for oneself and ask to change teams early.
