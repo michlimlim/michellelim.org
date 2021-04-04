@@ -13,10 +13,10 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-177547603-1"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 10
+paginate = 3
 
 # Number of characters to show in summary.
-summaryLength = 20
+summaryLength = 15
 
 [params]
     description = "Hi! I’m Michelle Lim. I’m a software engineer at an NYC-based startup. I also write essays. During my undergrad at Yale, I co-founded a healthcare startup called Pillnotes and a startup incubator called Yale Helix. I also invested in startups with Contrary Capital. In the summers, I interned at Robinhood (building Video News), Slack, and Facebook. In my free time, I read fiction, paint oil paintings, play squash and cycle. Fun fact: I sang in the Yale Russian chorus without knowing Russian!"
@@ -86,6 +86,11 @@ weight = 3
 name = "Art"
 url = "/art"
 weight = 4
+
+[[menu.main]]
+name = "Subscribe"
+url = "/subscribe"
+weight = 5
 
 [deployment]
 order = [".jpg$", ".gif$"]

@@ -1,12 +1,12 @@
 ---
 title: "HerBusiness"
 date: 2020-09-22T12:44:00-04:00
-description: "My satire essay about some men pitching a women's toilet productivity app."
+description: "My humor essay about some men pitching a women's toilet productivity app."
 images: ["https://s3.amazonaws.com/www.michellelim.org/images/herbusiness.png"]
 type: "post"
 ---
 
-![HerBusiness](images/herbusiness.png)
+![HerBusiness](https://s3.amazonaws.com/www.michellelim.org/images/herbusiness.png)
 
 ## 💅 Welcome to HerBusiness.
 
@@ -28,7 +28,7 @@ Women miss out on the in-bathroom networking that men do all the time with the g
 
 The network effects are endless: all the women are going to download this app to gossip about the Bachelor, share their favorite positions from Cosmo, and coordinate yoga poses in real time.
 
-![HerBusiness Features](images/herbusiness-best-features.png)
+![HerBusiness Features](https://s3.amazonaws.com/www.michellelim.org/images/herbusiness-best-features.png)
 
 ### Our Business
 

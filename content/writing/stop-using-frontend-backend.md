@@ -9,7 +9,7 @@ type: "post"
 
 **_Also posted on Medium [here](https://medium.com/@michlim97/stop-just-using-frontend-or-backend-to-describe-the-engineering-you-like-e8c392956ada)._**
 
-![Stop Using Frontend Backend Cover Photo](images/fe-be-cover-photo.png)
+![Stop Using Frontend Backend Cover Photo](https://s3.amazonaws.com/www.michellelim.org/images/fe-be-cover-photo.png)
 
 If there is one tip I could share with my fellow new engineers, it would be… Stop relying on the “Frontend/Backend” axis to understand the engineering you like. **The “Frontend/Backend” axis doesn’t map well to engineers’ motivations.** If you only use that axis, you can end up in projects you don’t like or worse still, give up on engineering prematurely. **Instead, try using the “Product/Infrastructure” axis as the first axis to understand your career preference.**
 

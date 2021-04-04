@@ -8,7 +8,7 @@ type: "post"
 
 **_Also posted on the Yale Herald [here](https://yaleherald.com/paying-for-soul-88e193d2ec29)._**
 
-![Paying For Soul Cover Photo by Annie Yan](images/soul-cycle.png "Drawing by Annie Yan")
+![Paying For Soul Cover Photo by Annie Yan](https://s3.amazonaws.com/www.michellelim.org/images/soul-cycle.png "Drawing by Annie Yan")
 
 Each worship session, two large, cylindrical candles on the podium light up the dark room. We close our eyes and sink into a trance while our leader espouses his message. At the end of the session, we place our palms together and meditate. Finally, the lights turn on, abruptly reminding us that we are sweating on stationary bicycles in a group spin class called SoulCycle (or Soul, as the instructors called it).
 

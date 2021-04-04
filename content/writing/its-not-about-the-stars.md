@@ -1,7 +1,7 @@
 ---
 title: "It's Not About the Stars"
 date: 2020-01-23T23:24:22-04:00
-description: "My Yale Daily News essay about why milennials and I love horoscopes not-ironically."
+description: "My Yale Daily News essay about why milennials and I love horoscopes unironically."
 images:
   [
     "https://s3.amazonaws.com/www.michellelim.org/images/ivi-fung_horoscopes_staff-online-1.png",
@@ -11,7 +11,7 @@ type: "post"
 
 **_Also posted on the Yale Daily News [here](https://yaledailynews.com/blog/2020/01/23/its-not-about-the-stars/)._**
 
-![It's Not About the Stars Cover Photo by Ivy Fund](images/ivi-fung_horoscopes_staff-online-1.png "Drawing by Ivy Fung")
+![It's Not About the Stars Cover Photo by Ivy Fund](https://s3.amazonaws.com/www.michellelim.org/images/ivi-fung_horoscopes_staff-online-1.png "Drawing by Ivy Fung")
 
 Every day at noon, my astrology app, Co-Star, sends me a push notification. One day, it read, “Try not to commit any acts of self-hatred today.” This elicited strong reactions from friends who happened to see it.
 
