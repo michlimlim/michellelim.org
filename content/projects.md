@@ -12,5 +12,20 @@ type: "page"
 
 In today's world, we trade in our data and our privacy to technology companies in exchange for smarter routing, personalized feeds, and crowd intelligence. Federated learning lets you keep your privacy and get the intelligence you need. It is a type of collaborative machine learning that keeps all the training data on the end devices.
 
-- In my Undergrad Thesis, I improved on the fairness of the state-of-the-art Google FL protocol. [Code](https://github.com/michlimlim/gaia2/) | [Paper](https://drive.google.com/file/d/1Lgq_zoJeNW99Qln8HZfFs4bPtAv-eJrI/view?usp=sharing) | [Video of me explaining federated learning and the thesis in layman's terms](https://www.youtube.com/watch?v=PPFywsmVPYA")
-- SiloML: I was curious if we could turn Federated Learning into a business. I worked with Isaac and Dhruvik to build a FL marketplace that allows Researchers to run machine learning models on Data Owners' devices. [Website](https://silo-ml.firebaseapp.com/) | [Code](https://github.com/SiloML/silo-webapp)
+##### Academia
+
+In my undergraduate thesis, I improved on the fairness of the state-of-the-art Google FL protocol.
+
+- [Paper:"Data-Driven, Bottom-up, Asynchronous Federated Learning"](https://drive.google.com/file/d/1Lgq_zoJeNW99Qln8HZfFs4bPtAv-eJrI/view?usp=sharing)
+- [Code: github.com/michlimlim/gaia2](https://github.com/michlimlim/gaia2/)
+- [Video of me explaining federated learning and the thesis in layman's terms](https://www.youtube.com/watch?v=PPFywsmVPYA")
+
+##### Startup: SiloML
+
+I was curious if we could turn Federated Learning into a business. I worked with Isaac and Dhruvik to build a federated learning platform for life science researchers to run models on their provider partners’ databases.
+
+SiloML is a data platform that enables life science companies to gain insights from real-time patient data that live across silos. Due to the privacy guarantees of Silo, Silo can also help life science companies win more data contracts from provider data partners.
+
+- [Marketing page: www.siloml.us](https://www.siloml.us)
+- [SiloML Web Platform](https://app.siloml.us/)
+- [Code: github.com/SiloML](https://github.com/SiloML/)
