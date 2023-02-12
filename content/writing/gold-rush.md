@@ -9,7 +9,7 @@ images:
 type: "post"
 ---
 
-**_Also posted on the Yale Daily News [here](https://yaledailynews.com/blog/2019/10/24/gold-rush/)._**
+**_Also posted [here](https://yaledailynews.com/blog/2019/10/24/gold-rush/)._**
 
 ![Gold Rush Cover Photo by Claire Mutchnik](https://s3.amazonaws.com/www.michellelim.org/images/Claire-Mutchnik_Gold-Rush_editor_online.png "Drawing by Claire Mutchnik")
 

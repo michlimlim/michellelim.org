@@ -1,7 +1,7 @@
 ---
 title: "It's Not About the Stars"
 date: 2020-01-23T23:24:22-04:00
-description: "My Yale Daily News essay about why milennials and I love horoscopes unironically."
+description: "My essay about why milennials and I love horoscopes unironically."
 images:
   [
     "https://s3.amazonaws.com/www.michellelim.org/images/ivi-fung_horoscopes_staff-online-1.png",
@@ -9,7 +9,7 @@ images:
 type: "post"
 ---
 
-**_Also posted on the Yale Daily News [here](https://yaledailynews.com/blog/2020/01/23/its-not-about-the-stars/)._**
+**_Also posted [here](https://yaledailynews.com/blog/2020/01/23/its-not-about-the-stars/)._**
 
 ![It's Not About the Stars Cover Photo by Ivy Fund](https://s3.amazonaws.com/www.michellelim.org/images/ivi-fung_horoscopes_staff-online-1.png "Drawing by Ivy Fung")
 

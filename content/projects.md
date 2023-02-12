@@ -4,7 +4,7 @@ type: "page"
 
 - [Pillnotes](https://www.pillnotes.com/): I co-founded a startup to build a shared decision making doctor-patient communication app.
 
-- [Wayfinder @ Yale](https://github.com/michlimlim/Wayfinder-Yale): An iOS app that helps you navigate around Yale's two newest residential colleges.
+- [Wayfinder](https://github.com/michlimlim/Wayfinder-Yale): An iOS app that helps you navigate around the basements of college dorms.
 
 - [TwitterApp](https://github.com/michlimlim/TwitterApp): I built an Android Twitter app for users to view their timeline and post a tweet.
 
