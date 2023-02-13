@@ -4,7 +4,7 @@ date: 2019-10-24T23:45:22-04:00
 description: "I notice that the two main streets running through downtown San Francisco are Mission Street and Market Street. They run parallel to each other; they never intersect."
 images:
   [
-    "https://s3.amazonaws.com/www.michellelim.org/images/Claire-Mutchnik_Gold-Rush_editor_online.png",
+    "/images/Claire-Mutchnik_Gold-Rush_editor_online.png",
   ]
 type: "post"
 featured: true
@@ -12,7 +12,7 @@ featured: true
 
 **_Also posted [here](https://yaledailynews.com/blog/2019/10/24/gold-rush/)._**
 
-![Gold Rush Cover Photo by Claire Mutchnik](https://s3.amazonaws.com/www.michellelim.org/images/Claire-Mutchnik_Gold-Rush_editor_online.png "Drawing by Claire Mutchnik")
+![Gold Rush Cover Photo by Claire Mutchnik](/images/Claire-Mutchnik_Gold-Rush_editor_online.png "Drawing by Claire Mutchnik")
 
 News of the discovery of gold draws hordes of people from around the world to San Francisco, California. The aspiring fortune-hunters are mostly men (and a few intrepid women). They settle close to the goldfields, displacing local residents.
 

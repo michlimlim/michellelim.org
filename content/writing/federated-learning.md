@@ -2,13 +2,13 @@
 title: "Federated Learning—a primer"
 date: 2021-05-01T12:10:44-04:00
 description: "A quick introduction to the decentralized machine learning technology that's already changing the internet."
-images: ["https://s3.amazonaws.com/www.michellelim.org/images/fl1.png"]
+images: ["/images/fl1.png"]
 type: "post"
 ---
 
 **_Also posted on Medium [here](https://medium.com/@michlimlim/federated-learning-a-primer-b26375737260)._**
 
-![cover](https://s3.amazonaws.com/www.michellelim.org/images/fl1.png)
+![cover](/images/fl1.png)
 
 It’s already in our [keyboards](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html). It’s coming for our website [cookies](https://github.com/WICG/floc). It’s used in clinical trials to connect [siloed patient data](https://owkin.com/hcc-liver-cancer/). Yet not many technologists have heard of **_federated learning_**. Let’s change that.
 
@@ -18,7 +18,7 @@ Why then is federated learning less buzzed about than its decentralized peer, cr
 
 **Centralized machine learning**
 
-![centralized](https://s3.amazonaws.com/www.michellelim.org/images/fl2.png)
+![centralized](/images/fl2.png)
 
 **Today, it is typical to send our sensitive data to corporations in exchange for smarter software.** Take how Facebook makes your newsfeed more engaging. Step 1: By using the Facebook newsfeed, we send our demographic information and clicks to its data centers. Step 2: Facebook trains a model on our aggregated data to figure out what types of people will click on what. It then ranks a news feed based on our personal information. Step 3: It loads us that newsfeed.
 
@@ -27,7 +27,7 @@ You start to see the problem. One hack on the central source happens and our dat
 **Federated Machine Learning**
 
 Federated learning gets us the best of both worlds. Your data stays on your device the whole time.
-![federated](https://s3.amazonaws.com/www.michellelim.org/images/fl3.png)
+![federated](/images/fl3.png)
 
 Step 1: You use Facebook and your device trains a model. Step 2: Your device shares only the model updates to a centralized server to be combined. Step 3: Your device receives the combined model. Step 4: Your device uses the combined model to rank your own newsfeed. With the properly secured aggregation methods, the corporation cannot reverse engineer the model to get your data.
 

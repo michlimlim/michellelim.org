@@ -20,7 +20,7 @@ summaryLength = 15
 
 [params]
     description = "Hi! I’m Michelle Lim. I’m the Growth Lead at Warp. I also write essays. "
-    images = ["https://s3.amazonaws.com/www.michellelim.org/images/self.jpg"]
+    images = ["/images/self.jpg"]
 
     # Content types which are included in home page recent posts list.
     mainSections = ["post"]
@@ -32,7 +32,7 @@ summaryLength = 15
     featherIconsCDN = true
 
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "https://s3.amazonaws.com/www.michellelim.org/icons/favicon.ico"
+    favicon = "/icons/favicon.ico"
 
     # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
     # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then

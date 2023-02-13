@@ -4,12 +4,12 @@ date: 2020-12-19T23:58:51-05:00
 description: "My essay describing how and why Marvel Studios delivers watered-down critiques on US Foreign Policy. It appears to condemn US foreign policy and yet undercuts every serious critique by attributing structural problems to individual faults."
 images:
   [
-    "https://s3.amazonaws.com/www.michellelim.org/https://s3.amazonaws.com/www.michellelim.org/images/marvel-the-unwilling.png",
+    "//images/marvel-the-unwilling.png",
   ]
 type: "post"
 ---
 
-![Marvel the Unwilling](https://s3.amazonaws.com/www.michellelim.org/images/marvel-the-unwilling.png)
+![Marvel the Unwilling](/images/marvel-the-unwilling.png)
 
 I’m embarrassed to share this: Marvel Cinematic Universe (MCU) films are some of the most intellectually engaging films to me. After each film, I’d spend days analyzing its commentary on US foreign policy. Like a TV detective stereotype, I’d compile evidence—comparing the plots of the comic book source material and the film. I’d circle the parts the film kept and the parts it discarded. With the ~~interrogations~~ interviews of Joss Whedon and the Russo brothers playing in the background on loop.
 
@@ -17,7 +17,7 @@ My forensic theory? **Marvel Studios cannot help but condemn US foreign policy. 
 
 **Marvel Studios has to comment on contemporary US foreign policy because the characters they inherited came with histories inextricably tied to the US military.** They can’t set Captain America’s origin story in a fictional frozen Norwegian kingdom when his name is Captain, erm, _America_. Nor can they injure Tony Stark in a peaceful town instead of a war-torn foreign country he sells American weapons in. Marvel is hyper aware that what they do with Cap and Iron Man will be seen as commentary.
 
-![Captain America](https://s3.amazonaws.com/www.michellelim.org/images/captain-america.png)
+![Captain America](/images/captain-america.png)
 _See a very American Captain America touring the US to spread war propaganda and sell War Bonds in the film._
 
 **But why levy criticisms of US foreign policy rather than praise? The comic book origin of MCU is yet again a driving factor.** Marvel inherits the progressive themes of the Marvel comics. Comics are characteristically liberal because unlike movie makers who appeal to the general audience, comic writers only have to cater to small niches.
@@ -30,14 +30,14 @@ Take Mike Millar, famously subversive comic writer whose work was adapted into �
 
 They did this by pitting our American hero (Captain America) against the Helicarriers—a drone program uncannily similar to the US’s predictive drone strikes. In the film, Captain America questions the justice of the program (“I thought the punishment usually came after the crime”.) By having the Helicarriers target stereotypically American targets–father and son in backyard, White House, Pentagon), Marvel humanizes drone targets. It is a damnation of drone strikes which worked only because they were dehumanizing.
 
-![Drones](https://s3.amazonaws.com/www.michellelim.org/images/drones.png)
+![Drones](/images/drones.png)
 _The several thousand targets that the helicarriers plan to kill. The names of US states are prominently displayed._
 
 In “Captain America: Civil War”, the Russo brothers wanted to question the accountability of US military actions.[^3] They said in an interview: “We live in a country where we do go over borders all the time and we do what we feel is necessary…There's still a cost to it.”
 
 So, they turned the conflict international. In the film, the Avengers—an allegory for the US military—had caused so much damage in foreign countries (Nigeria and fictional Sokovia) that the UN wanted to regulate them. The brothers, ironically via the US Secretary of State, delivers scathing critiques of US forign policy. He asks: “What would you call a group of _US based,_ enhanced individuals who routinely ignore sovereign borders and inflict their will wherever they choose and who, frankly, seem unconcerned with what they leave behind?’” He censures the US military for operating with unlimited power and not respecting international norms.
 
-![UN](https://s3.amazonaws.com/www.michellelim.org/images/the-un.png)
+![UN](/images/the-un.png)
 _The UN passes the resolution to regulate the Avengers._
 
 On the surface, these anti-interventionist critiques may seem scathing. For years, I thought that MCU was highly progressive and anti-imperial. **But looking back at these films, I realize that every time Marvel levies an anti-US critique, it undercuts itself. It hijacks the critique via convenient plot diversions. Worse, it attributes the problems to literal Nazis or corrupt individuals, thereby brushing off structural issues as individual flaws.**

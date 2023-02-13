@@ -2,11 +2,11 @@
 title: "The Arrival of the Media-Literate Citizen"
 description: "My film review on Arrival (2016). Arrival is not just about linguistic communication; instead, it is about thinking critically about the media we consume and communicating its messages responsibly."
 date: 2016-12-12T23:45:22-04:00
-images: ["https://s3.amazonaws.com/www.michellelim.org/images/arrival.png"]
+images: ["/images/arrival.png"]
 type: "post"
 ---
 
-![Arrival Cover Photo](https://s3.amazonaws.com/www.michellelim.org/images/arrival.png "Arrival (2016) stars expert linguist Louise Banks (Amy Adams) as she struggles to decode the language of aliens which have mysteriously arrived on Earth")
+![Arrival Cover Photo](/images/arrival.png "Arrival (2016) stars expert linguist Louise Banks (Amy Adams) as she struggles to decode the language of aliens which have mysteriously arrived on Earth")
 
 It may be tempting to think Arrival (2016) is only about linguistic communication. After all, it follows expert linguist Dr. Louise Banks (Amy Adams) as she decodes the language of aliens. This view misses the point. **Arrival (2016) is about media literacy. It is about thinking critically about the media we consume and communicating its messages responsibly.**
 
@@ -22,7 +22,7 @@ The film deploys sound to champion the Banks brand of media consumption. Noisy s
 
 Banks brings her unbiased attitude not only to aliens, but also to those whom we consider alien: people who hold different political opinions from us. The media paints the Chinese general as a two-dimensional stern character. Heisserer explains that this is because the US media thinks of him as a potential enemy. He said, “And we’re taking whatever’s being said in Chinese, whoever’s translating that is taking it to the U.S. news and saying, “Oh, this is the big bad general.”” But Banks does not fall for this trope. She peels apart that facade to communicate with the general and saves the day.
 
-![Arrival Cover Photo](https://s3.amazonaws.com/www.michellelim.org/images/arrival_newsclips.png "A sampling of four news-clips produced about the outside-world in response to the arrival of the aliens. The word ‘crisis’ was used to describe the arrival.")
+![Arrival Cover Photo](/images/arrival_newsclips.png "A sampling of four news-clips produced about the outside-world in response to the arrival of the aliens. The word ‘crisis’ was used to describe the arrival.")
 
 Beyond understanding that the media can only capture one facet of everything it reports on, Banks also understands **the power of words to influence our worldview. This is the Sapir-Whorf Hypothesis, which is core to Banks’s profession.** Though the media reports that the aliens indicate an intention to use weapons, she realizes that **because the Chinese communicate with the aliens with mah-jong, the aliens can communicate only in terms of battles and wars**, rather than ideas and emotions. She discovers that ‘weapon’ could have a neutral meaning to the aliens too, and this is key to the resolution of the conflict. Though media reports describe the advent of the aliens as a ‘crisis’ or an ‘invasion’, she insists on calling it an ‘arrival’ in an attempt to erase the subjectivity that the former two words imbue in the media consumers around her.
 

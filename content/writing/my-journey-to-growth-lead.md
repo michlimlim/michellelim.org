@@ -2,11 +2,11 @@
 title: "My journey to Growth Lead"
 description: "My journey from being an engineer to running the growth team at Warp"
 date: 2023-02-04T18:28:38-05:00
-images: ["https://s3.amazonaws.com/www.michellelim.org/images/journey.jpg"]
+images: ["/images/journey.jpg"]
 type: "post"
 ---
 
-![cover](https://s3.amazonaws.com/www.michellelim.org/images/journey.jpg)
+![cover](/images/journey.jpg)
 
 In the summer of 2020, I joined a startup as its first software engineer. Today, I am head of its growth team. What appears to be a random career transition was actually set in motion before I even joined.
 

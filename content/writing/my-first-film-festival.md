@@ -3,11 +3,11 @@ title: "My First Film Festival"
 date: 2021-11-02T23:03:04-04:00
 description: "My first experience attending a film festival, namely the New York Film Festival 2021."
 images:
-  ["https://s3.amazonaws.com/www.michellelim.org/images/nyff/passing_cast.jpeg"]
+  ["/images/nyff/passing_cast.jpeg"]
 type: "post"
 ---
 
-![Passing cover photo](https://s3.amazonaws.com/www.michellelim.org/images/nyff/passing_cast.jpeg)
+![Passing cover photo](/images/nyff/passing_cast.jpeg)
 _I took this photo at the panel with director Rebecca Hall and the cast of 'Passing'—Tessa Thompson, Ruth Nega, and André Holland._
 
 For as long as I can remember, watching films has been my favorite hobby. I engaged in it academically and socially in my schooling years. And when I moved to New York post-college, I emailed my college film professor to learn how I could get involved in the film scene here.
