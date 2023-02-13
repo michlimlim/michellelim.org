@@ -3,11 +3,11 @@ title: "Into the Fediverse"
 date: 2021-06-26T23:10:43-04:00
 description: "Social media apps should share the same social graph by implementing ActivityPub"
 images:
-  ["https://s3.amazonaws.com/www.michellelim.org/images/anti-facebook.png"]
+  ["/images/anti-facebook.png"]
 type: "post"
 ---
 ## Social media apps should share the same social graph by implementing ActivityPub
-![A web consisting of Poparazzai, Dispo, Clubhouse, Snapchat, and Houseparty](https://s3.amazonaws.com/www.michellelim.org/images/anti-facebook.png)
+![A web consisting of Poparazzai, Dispo, Clubhouse, Snapchat, and Houseparty](/images/anti-facebook.png)
 
 #### Dear social media app startups,
 
@@ -35,7 +35,7 @@ It’s like E-mail. We take it for granted that any email user can send and rece
 
 Why can’t social media behave the same  way? ActivityPub (along with Matrix) is the most popular open social network protocol.  I use [Mastodon](https://joinmastodon.org/)—the ActivityPub version of Twitter. And within it, I can follow any user from PeerTube—the ActivityPub version of Youtube. Here’s what PeerTube posts look like on my Mastodon feed.
 
-![Screenshot of me viewing PeerTube from Mastodon](https://s3.amazonaws.com/www.michellelim.org/images/mastodon-screenshot.png)
+![Screenshot of me viewing PeerTube from Mastodon](/images/mastodon-screenshot.png)
 
 ### The business case for a shared social graph
 
@@ -59,14 +59,14 @@ In fact, the only truly successful new social media app in the last decade has b
 And **all these benefits come with relatively low engineering overhead.** No need to chase down each app and integrate with them. You just have to handle a few GET and POST request endpoints. 
 
 To allow users outside your app to direct-message users on your app, your server would have to accept the following JSON object as a POST request from other apps. Your client would then retrieve it to display it.
-![JSON of DM](https://s3.amazonaws.com/www.michellelim.org/images/alyssa-dm.png)
+![JSON of DM](/images/alyssa-dm.png)
 [Example 3 from ActivityPub specs](https://www.w3.org/TR/activitypub/#Overview)
 
 Here, Alyssa from Social App has sent a personal message to Ben from Chatty app. The fields are straight-forward: recipient, sender, note.
 
 If she wanted to post that to her servers, her server would set the `to` field to `"https://social.example/alyssa/followers/"`. If she wanted to post a different content type, her server could extend the object. For example, this is an `object` that’s a Markdown:
 
-![JSON of Markdown](https://s3.amazonaws.com/www.michellelim.org/images/alyssa-markdown.png)
+![JSON of Markdown](/images/alyssa-markdown.png)
 [Example 8 from ActivityPub specs](https://www.w3.org/TR/activitypub/#obj-id)
 
 ### Into the Fediverse

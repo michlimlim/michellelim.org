@@ -4,14 +4,14 @@ date: 2019-11-21T23:40:22-04:00
 description: "My humor essay about dating apps and how they optimize and thereby cheapen dating."
 images:
   [
-    "https://s3.amazonaws.com/www.michellelim.org/images/Anasthasia-Shilov_Recruiting-for-love_Contributing_Online-1.png",
+    "/images/Anasthasia-Shilov_Recruiting-for-love_Contributing_Online-1.png",
   ]
 type: "post"
 ---
 
 **_Also posted [here](https://yaledailynews.com/blog/2019/11/21/how-to-recruit-for-love/)._**
 
-![How to Recruit for Love Cover Photo by Anastasia Shilov](https://s3.amazonaws.com/www.michellelim.org/images/Anasthasia-Shilov_Recruiting-for-love_Contributing_Online-1.png "Drawing by Anastasia Shilov")
+![How to Recruit for Love Cover Photo by Anastasia Shilov](/images/Anasthasia-Shilov_Recruiting-for-love_Contributing_Online-1.png "Drawing by Anastasia Shilov")
 
 As the ex-president of a student organization, I’m an expert in recruiting people to join my club. I’ve also gone through years of interviewing for internships and jobs in Silicon Valley. In college, I’m known for coaching my friends on how to conduct a different kind of recruiting: looking for romantic partners.
 

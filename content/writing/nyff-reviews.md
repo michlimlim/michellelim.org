@@ -2,7 +2,7 @@
 title: "Reviews of selected films from the New York Film Festival 2021"
 date: 2021-11-02T22:51:38-04:00
 description: "My reviews of Joel Coen’s 'Tragedy of Macbeth', Joachim Trier’s 'The Worst Person in the World', Joan Campion’s 'The Power of the Dog', Rebecca Hall’s 'Passing', and Celine Sciamma’s 'Petite Maman'. "
-images: ["https://s3.amazonaws.com/www.michellelim.org/images/nyff/macbeth.png"]
+images: ["/images/nyff/macbeth.png"]
 type: "post"
 ---
 
@@ -10,7 +10,7 @@ In September 2021, I attended the New York Film Festival. There, I watched Joel 
 
 1. **Tragedy of Macbeth (Opening Night and World Premiere)**
 
-![Macbeth](https://s3.amazonaws.com/www.michellelim.org/images/nyff/macbeth.png)
+![Macbeth](/images/nyff/macbeth.png)
 
 The film festival kicked off with Joel Coen’s _Tragedy of Macbeth_, starring Denzel Washington and Frances McDormand. All five theaters were completely booked for this.
 
@@ -22,19 +22,19 @@ I later learned in the Q&A that choosing older actors to play the starring coupl
 
 2. **The Worst Person in the World (Norwegian with English Subs)**
 
-![The Worst Person in the World](https://s3.amazonaws.com/www.michellelim.org/images/nyff/worst-person.png)
+![The Worst Person in the World](/images/nyff/worst-person.png)
 
 This Norwegian film is the best film I’ve seen in a long time. It is about Julie, a restless young woman and her struggles through the first adult years of life and love. I was instantly invested in her growth. The dialogue was raw and realistic, and yet its study of romanticism has affected me till today.
 
 3. **The Power of the Dog**
 
-![The Power of the Dog](https://s3.amazonaws.com/www.michellelim.org/images/nyff/power-of-the-dog.png)
+![The Power of the Dog](/images/nyff/power-of-the-dog.png)
 
 _Power of the Dog_ is Jane Campion’s adaptation of the novel of the same name by Thomas Savage. It is Western thriller about two rancher brothers and an exploration of cowboy masculinity. This is probably Benedict Cumberbatch’s best acting, albeit him playing yet another type casted role of the misunderstood genius. I didn’t quite enjoy the movie as a whole as it felt slow and meandering. The movie takes a while to settle into the main conflict and characters.
 
 4. **Passing**
 
-![Passing](https://s3.amazonaws.com/www.michellelim.org/images/nyff/passing.png)
+![Passing](/images/nyff/passing.png)
 
 Actress Rebecca Hall’s directorial debut is based on _Passing_ by Nella Larsen. The film, starringTessa Thompson and Ruth Nega, is about mixed race friends, one of whom decided to pass as white. I’m a huge fan of Hall and Thompson’s acting and gasped when I saw them in person.
 
@@ -42,7 +42,7 @@ Black and white was artfully chosen to emphasize the differences in skin tone. H
 
 5. **Petite Maman (French with English Subs)**
 
-![Petite Maman](https://s3.amazonaws.com/www.michellelim.org/images/nyff/petite-maman.png)
+![Petite Maman](/images/nyff/petite-maman.png)
 
 I’m a big fan of Celine Sciamma, from _Portrait of a Lady on Fire,_ and she has done it again. Watch as she portrays two eight-year-olds and makes you want to be a child again. She does so in 72 minutes, but it didn’t feel that short. The film was light and wholesome, while exploring memory and the bond between mothers and daughters.
 

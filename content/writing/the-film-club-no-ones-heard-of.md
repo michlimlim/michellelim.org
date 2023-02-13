@@ -2,11 +2,11 @@
 title: "The film club no one's heard of"
 date: 2020-11-01T00:57:43-06:00
 description: "My essay about why some TV viewers compulsively check Reddit/Youtube after each TV show, and why you should consider checking it too."
-images: ["https://s3.amazonaws.com/www.michellelim.org/images/filmclub.png"]
+images: ["/images/filmclub.png"]
 type: "post"
 ---
 
-![Film Club photo](https://s3.amazonaws.com/www.michellelim.org/images/filmclub.png)
+![Film Club photo](/images/filmclub.png)
 
 I attend several film club meetings a week. There, my fellow members and I share our initial reactions, reconstruct the _auteur_’s message, and return to the film to re-savor missed details and symbols. When we’ve gotten our fill, we leave by closing a Reddit tab.
 

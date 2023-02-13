@@ -3,13 +3,13 @@ title: "The Loft"
 date: 2021-10-14T23:41:49-04:00
 description: "I live in a loft my housemates and I built from wooden boards. We built it because my Manhattan bedroom was too small. This is a photo-essay that walks you through the process."
 images:
-  ["https://s3.amazonaws.com/www.michellelim.org/images/loft/photo11.jpeg"]
+  ["/images/loft/photo11.jpeg"]
 type: "post"
 ---
 
 **_Also posted on Mirror as an NFT [here](https://mirror.xyz/0xB40aF78de9e4f754DF88FF254b27d668048b9040/G0eA3SjXUAyncGp6GSCbXX3DrGEBJdiUWQ9M1fNgnH8). If you liked the essay, you can collect a limited edition NFT of it there._**
 
-![Loft cover photo](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo11.jpeg)
+![Loft cover photo](/images/loft/photo11.jpeg)
 
 “Michelle, why don’t you build a loft like we did?” Cat, my roommate, asked. She and my other roommate, Zack, [had built a loft bed](https://czeng.org/arts/2019-09-26-loft) before.
 
@@ -19,14 +19,14 @@ So we rejoiced when our application was approved. We had also won the lottery to
 
 Enter my bedroom and you’d wonder if it’s a dorm. The room’s about one Chris Evans long, and one-and-a-half Chris Evans wide (7.5 feet by 9 feet). I can fit my desk and full bed, but they would crowd me out of the room. So, when Cat suggested I build a loft to free my floor, I said “Yes! Yes! Yes!”
 
-![Tiny bedroom](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo1.png)
+![Tiny bedroom](/images/loft/photo1.png)
 _The hot Manhattan housing market left me with a room that fit only a desk and bed, leaving no room for me._
 
 ---
 
 The next week, Zack showed me his CAD rendering of the loft. He told me he had to design around a random stripper’s pole he found in my room. (Don’t worry, it’s just a _sewage_ pole.) The pole turned out to be the first of many strange things we would soon discover about our place.
 
-![CAD](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo3.png)
+![CAD](/images/loft/photo3.png)
 _The CAD of the loft. Note that the leftmost leg has to wrap around a random stripper’s pole in my room._
 
 ---
@@ -35,10 +35,10 @@ Zack brought the loft’s parts with him when we moved into the apartment. His f
 
 The entire living room and my room became our woodworking shop for the next three weeks. Whenever we worked, I’d drag my mattress, desk, and moving boxes out of my bedroom and out of our way. The loft had the privilege of moving in before we did.
 
-![Arrival of Wood](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo5.png)
+![Arrival of Wood](/images/loft/photo5.png)
 _The loft’s pieces arrived and are splayed on my apartment floor, which became our woodworking shop._
 
-![Hallway](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo6.png)
+![Hallway](/images/loft/photo6.png)
 _My roommate Cat arranged where we wanted the rungs to be on the ladder. In the background, you can see that during construction, we pushed my mattress, desk, and monitors to rest in the apartment doorway._
 
 ---
@@ -59,10 +59,10 @@ As soon as I said that—really!, we heard incessant knocks on our apartment doo
 
 He came back a minute later. He explained that we did indeed have a downstairs neighbor. And he very reasonably wanted us to stop until daytime. We paused work until the weekend.
 
-![Hammer](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo7.jpeg)
+![Hammer](/images/loft/photo7.jpeg)
 _I hammered a mark into the plank, so the power drill bit can hook onto it._
 
-![Drill](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo8.jpeg)
+![Drill](/images/loft/photo8.jpeg)
 _I power drilled a hole into planks so I may join them with dowels._
 
 ---
@@ -77,7 +77,7 @@ For those of you familiar with the sitcom ‘How I Met Your Mother’, there is 
 
 I’d always longed for the classic New York twenty-something experience.
 
-![Loft parts, assemble!](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo9.png)
+![Loft parts, assemble!](/images/loft/photo9.png)
 _Zack and George assemble the loft. Here, they join the loft legs to a plank via dowels._
 
 ---
@@ -88,7 +88,7 @@ It was the preparation work that was peculiar. First, put on an N95 covid mask. 
 
 The green mould was a housewarming gift from our landlord. Thankfully, I’d already dealt with a more disgusting gift that day—a cockroach infestation, so the mould felt like child’s play.
 
-![Ceiling light fan](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo10.png)
+![Ceiling light fan](/images/loft/photo10.png)
 _We needed to remove the ceiling light/fan to make room for the mattress._
 
 ---
@@ -101,10 +101,10 @@ When the dinner party overflows from the living room, I can invite house guests 
 
 The loft building has made me aware of the life skills I still need to learn. I’ve crossed off woodworking, cleaning fans, and apartment hunting from the list. Up next is figuring out how to stop cockroach larvae from swimming out of the bathtub.
 
-![House guests](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo12.jpeg)
+![House guests](/images/loft/photo12.jpeg)
 _I can host house guests under the loft._
 
-![Completed Loft](https://s3.amazonaws.com/www.michellelim.org/images/loft/photo11.jpeg)
+![Completed Loft](/images/loft/photo11.jpeg)
 _The completed loft in the bedroom._
 
 ---

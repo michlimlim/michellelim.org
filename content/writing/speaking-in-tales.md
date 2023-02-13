@@ -3,11 +3,11 @@ title: "Speaking in Tales: conversing in Chinese means constantly alluding to fo
 date: 2021-03-27T01:13:17-04:00
 description: Through my favorite Chinese idioms, I illustrate how the language efficiently packs historical folklore into 4-character expressions and discuss the implications.
 images:
-  ["https://s3.amazonaws.com/www.michellelim.org/images/speaking-in-tales.jpg"]
+  ["/images/speaking-in-tales.jpg"]
 type: "post"
 ---
 
-![Speaking in Tales](https://s3.amazonaws.com/www.michellelim.org/images/speaking-in-tales.jpg "'Winged Spirits' from the National Museum of Asian Art")
+![Speaking in Tales](/images/speaking-in-tales.jpg "'Winged Spirits' from the National Museum of Asian Art")
 
 I recently watched the famous Star Trek episode titled “[Darmok](https://en.wikipedia.org/wiki/Darmok).” It centers around the Enterprise’s attempt to decipher the language of a new civilization they encountered—the Tamarians. Normally, Star Fleet’s universal translators would allow the crew to speak directly with any humanoid species. However, it fails to translate the Tamarians. “Darmok and Jalad at Tanagra,” they said. What could they have meant?
 
