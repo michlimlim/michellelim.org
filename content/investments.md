@@ -11,3 +11,4 @@ I’ve been grateful to be invited to work with these companies as an advisor an
 - [PayHippo](https://payhippo.ng/)
 - [Rutter](https://www.rutterapi.com/)
 - [Stytch](https://stytch.com/)
+- [Sylvan Health](https://sylvanhealth.com/)
