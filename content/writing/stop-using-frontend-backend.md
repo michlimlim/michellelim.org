@@ -5,6 +5,7 @@ description: "Why the “frontend” vs “backend” engineering axis doesn't m
 images:
   ["https://s3.amazonaws.com/www.michellelim.org/images/fe-be-cover-photo.png"]
 type: "post"
+featured: true
 ---
 
 **_Also posted on Medium [here](https://medium.com/@michlim97/stop-just-using-frontend-or-backend-to-describe-the-engineering-you-like-e8c392956ada)._**

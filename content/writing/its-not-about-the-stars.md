@@ -7,6 +7,7 @@ images:
     "https://s3.amazonaws.com/www.michellelim.org/images/ivi-fung_horoscopes_staff-online-1.png",
   ]
 type: "post"
+featured: true
 ---
 
 **_Also posted [here](https://yaledailynews.com/blog/2020/01/23/its-not-about-the-stars/)._**
