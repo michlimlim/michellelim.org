@@ -3,7 +3,7 @@ title: "Into the Fediverse"
 date: 2021-06-26T23:10:43-04:00
 description: "Social media apps should share the same social graph by implementing ActivityPub"
 images:
-  ["https://www.michellelim.dev/images/anti-facebook.png"]
+  ["https://michellelim.dev/images/anti-facebook.png"]
 type: "post"
 ---
 ## Social media apps should share the same social graph by implementing ActivityPub
