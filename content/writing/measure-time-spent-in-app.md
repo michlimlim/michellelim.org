@@ -2,7 +2,7 @@
 title: "How We Built Our Own Time-Tracking Algorithm for a Rust app"
 date: 2023-05-09T22:37:35-04:00
 description: "A technical blog post on how we built time-tracking for an app"
-images: ["/images/persistence-of-memory.jpg"]
+images: ["/images/time-spent/persistence-of-memory.jpeg"]
 type: "post"
 ---
 
