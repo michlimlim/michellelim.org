@@ -1,9 +1,9 @@
-baseURL = "/"
+baseURL = "https://michellelim.dev/"
 languageCode = "en-us"
 title = "Michelle Lim"
 theme = "ezhil"
 
-copyright = "Michelle Lim"
+copyright = "Michelle Lim's Homepage"
 
 # Enable syntax highlighting.
 pygmentscodefences = true
@@ -20,7 +20,7 @@ summaryLength = 15
 
 [params]
     description = "Hi! I’m Michelle Lim. I’m the Growth Lead at Warp. I also write essays. "
-    images = ["/images/self.jpg"]
+    images = ["/images/cover_self.png"]
 
     # Content types which are included in home page recent posts list.
     mainSections = ["post"]
