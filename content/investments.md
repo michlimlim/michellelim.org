@@ -19,3 +19,5 @@ I’ve been grateful to be invited to work with these companies as an investor.
 - [Structify](https://structify.ai/)
 - [Stytch](https://stytch.com/)
 - [Sylvan Health](https://sylvanhealth.com/)
+- [Val Town](https://www.val.town/)
+
