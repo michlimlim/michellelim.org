@@ -19,7 +19,7 @@ paginate = 3
 summaryLength = 15
 
 [params]
-    description = "Hi! I’m Michelle Lim. I’m the Growth Lead at Warp. I also write essays. "
+    description = "Hi! I’m Michelle Lim. I was previously Product Lead at Warp. I also write essays. "
     images = ["/images/cover_self.png"]
 
     # Content types which are included in home page recent posts list.
