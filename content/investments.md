@@ -16,8 +16,10 @@ I’ve been grateful to be invited to work with these companies as an investor.
 - [Percents](https://www.percents.com/)
 - [Rutter](https://www.rutterapi.com/)
 - [Stellar Fusion](https://home.stellarfusion.io/)
+- [Stainless](https://www.stainlessapi.com/)
 - [Structify](https://structify.ai/)
 - [Stytch](https://stytch.com/)
 - [Sylvan Health](https://sylvanhealth.com/)
+- [Unify](https://www.unifygtm.com/)
 - [Val Town](https://www.val.town/)
 
