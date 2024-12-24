@@ -5,7 +5,7 @@ type: "page"
 
 Hi! I'm Michelle Lim. I am working on a new venture. 
 
-Previously, I was the second employee at [Warp](https://www.warp.dev), a Sequoia-backed Series B company reimagining the terminal for developers. I initially joined as their first software engineer and built our public beta product. Then, I led Product and Growth, growing our user base to hundreds of thousands of users. More on the transition [here](writing/my-journey-to-growth-lead).
+Previously, I was the second employee at [Warp](https://www.warp.dev), a Sequoia-backed Series B company reimagining the terminal for developers. I initially joined as their first software engineer and built the public beta product. Then, I led Product and Growth, growing their user base to hundreds of thousands of users. More on the transition [here](writing/my-journey-to-growth-lead).
 
 I also [invest in and advise early-stage startups](/investments). I advise startups on their [growth and data stack](https://twitter.com/michlimlim/status/1669467589888684038?s=20), growth strategy, and product/GTM hiring. If you're looking for an advisor, feel free to reach out!
 
